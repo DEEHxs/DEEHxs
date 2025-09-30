@@ -24,8 +24,8 @@
 ---
 
 ### 🌐 Onde me encontrar
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/denyse-ferreira-211984331/)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](emailto:denysepanzaf@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([[https://www.linkedin.com/](https://www.linkedin.com/in/denyse-ferreira-211984331/)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:denysepanzaf@gmail.com)
 
 ---
 ✨ _“Sempre aprendendo e criando com tecnologia!”_
