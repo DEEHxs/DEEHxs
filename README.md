@@ -1,9 +1,9 @@
 # <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=BD93F9&width=600&lines=%F0%9F%91%8B+Ol%C3%A1%2C+eu+sou+a+Denyse+Ferreira!" alt="Typing SVG"/>
 
-- 🚀 Atualmente faço projetos e busco sempre ampliar meus conhecimentos.  
-- 🎓 Cursando **Análise e Desenvolvimento de Sistemas**  
-- 🌱 Aprendendo e explorando diferentes áreas da tecnologia   
-- 😄 Pronomes: **she/her**  
+- 🚀 Currently, I'm working on projects and always looking to expand my knowledge.  
+- 🎓 Studying **Systems Analysis and Development**  
+- 🌱 Learning and exploring different areas of technology.   
+- 😄 Pronouns: **she/her**  
 
 ---
 
@@ -46,4 +46,4 @@
 </picture>
 
 ---
-✨ _“Sempre aprendendo e criando com tecnologia!”_
+✨ _“Always learning and creating with technology!”_
