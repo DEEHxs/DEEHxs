@@ -1,5 +1,4 @@
 # <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=BD93F9&width=600&lines=%F0%9F%91%8B+Hello%2C+I'm+Denyse+Ferreira!" alt="Typing SVG"/>
-Hello, I'm Denyse Ferreira!
 
 - 🚀 Currently, I'm working on projects and always looking to expand my knowledge.  
 - 🎓 Studying **Systems Analysis and Development**  
@@ -16,13 +15,13 @@ Hello, I'm Denyse Ferreira!
 ![GitHub](https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white)
 
 ---
-### 🌐 Onde me encontrar
+### 🌐 Where to find me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denyse-ferreira-211984331/)
 [![Gmail](https://img.shields.io/badge/Gmail-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](emailto:denysepanzaf@gmail.com)
 
 ---
 
-### 📊 Estatísticas
+### 📊 Statistics
 <p>
   <img 
     align="left" 
