@@ -3,7 +3,7 @@
 - 🚀 Atualmente faço projetos e busco sempre ampliar meus conhecimentos.  
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas**  
 - 🌱 Aprendendo e explorando diferentes áreas da tecnologia   
-- 😄 Pronomes: **sher/her**  
+- 😄 Pronomes: **she/her**  
 
 ---
 
