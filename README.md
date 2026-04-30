@@ -1,4 +1,4 @@
-## 👋 Olá, eu sou a Denyse Ferreira!  
+## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F7F7F7&width=600&lines=%F0%9F%91%8B+Ol%C3%A1%2C+eu+sou+a+Denyse+Ferreira!" alt="Typing SVG" />
 
 - 🚀 Atualmente faço projetos e busco sempre ampliar meus conhecimentos.  
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas**  
