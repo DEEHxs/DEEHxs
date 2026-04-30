@@ -15,6 +15,11 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
+### 🌐 Onde me encontrar
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denyse-ferreira-211984331/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](emailto:denysepanzaf@gmail.com)
+
+---
 
 ### 📊 Estatísticas do GitHub
 <p>
@@ -25,22 +30,14 @@
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=DEEHxs&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-
+</p>
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEEHxs&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
-
----
-
-### 🌐 Onde me encontrar
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denyse-ferreira-211984331/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](emailto:denysepanzaf@gmail.com)
-
----
+</p>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DEEHxs/DEEHxs/output/github-contribution-grid-snake-dark.svg">
