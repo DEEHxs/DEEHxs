@@ -17,7 +17,7 @@
 ---
 ### 🌐 Where to find me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denyse-ferreira-211984331/)
-[![Gmail](https://img.shields.io/badge/Gmail-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](emailto:denysepanzaf@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](emailto:denysepanzacf@gmail.com)
 
 ---
 
